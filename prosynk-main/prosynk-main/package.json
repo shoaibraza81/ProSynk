@@ -1,0 +1,29 @@
+{
+  "name": "prosynk",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@hello-pangea/dnd": "^18.0.1",
+    "groq-sdk": "^1.1.2",
+    "html2pdf.js": "^0.14.0",
+    "lucide-react": "^0.554.0",
+    "next": "15.5.6",
+    "openai": "^6.37.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-icons": "^5.5.0",
+    "recharts": "^3.5.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.6",
+    "tailwindcss": "^4"
+  }
+}

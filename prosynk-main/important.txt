@@ -1,0 +1,15 @@
+ALTER TABLE profiles
+ADD COLUMN email VARCHAR(255);
+
+
+sql query to verify our emails and user roles:
+SELECT
+    p.id,
+    p.role, -- or whatever column holds the role name/ID
+    u.email
+FROM
+    auth.users u
+JOIN
+    profiles p ON u.id = p.id -- If you are using a profiles table
+WHERE
+    u.email = 'k224530@nu.edu.pk'; -- **Use the actual Head PM email**

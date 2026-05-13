@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\prosynk-main",
+    "\\prosynk-main\\app",
+    "\\prosynk-main\\app\\api",
+    "\\prosynk-main\\app\\api\\ai",
+    "\\prosynk-main\\app\\api\\ai\\agent",
+    "\\prosynk-main\\app\\chat",
+    "\\prosynk-main\\app\\dashboard",
+    "\\prosynk-main\\app\\dashboard\\headpm",
+    "\\prosynk-main\\app\\login"
+  ],
+  "SelectedNode": "\\prosynk-main\\app\\dashboard\\headpm\\page.jsx",
+  "PreviewInSolutionExplorer": false
+}
